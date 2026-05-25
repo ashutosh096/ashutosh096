@@ -120,8 +120,8 @@ me.say_hi()
 ## 🔭 What I'm Building
 
 ```
-🌿  ClimAgro Analytics  —  
-🏥  EHM Consultancy     —  
+🌿  ClimAgro Analytics  —  Full Stack Developer Intern 
+🏥  EHM Consultancy     —  Full Stack Developer Intern 
 🧠  ML Integration      —  Embedding predictive models into production apps
 📊  DSA Mastery         —  Grinding algorithms for top-tier placements
 🌐  Cloud & DevOps      —  Scalable deployments with AWS & CI/CD pipelines
