@@ -120,8 +120,8 @@ me.say_hi()
 ## 🔭 What I'm Building
 
 ```
-🌿  ClimAgro Analytics  —  AgriTech platform for climate-aware farm analytics
-🏥  EHM Consultancy     —  Full-stack Healthcare Management System (MERN)
+🌿  ClimAgro Analytics  —  
+🏥  EHM Consultancy     —  
 🧠  ML Integration      —  Embedding predictive models into production apps
 📊  DSA Mastery         —  Grinding algorithms for top-tier placements
 🌐  Cloud & DevOps      —  Scalable deployments with AWS & CI/CD pipelines
