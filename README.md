@@ -1,14 +1,14 @@
 <!-- ======================== HEADER ======================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ASHUTOSH%20MISHRA&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20ClimAgro%20Analytics%20%7C%20EHM%20Consultancy&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ASHUTOSH%20MISHRA&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Software%20Developer%20%7C%20ClimAgro%20Analytics%20%7C%20EHM%20Consultancy&descAlignY=60&descSize=17" width="100%"/>
 
 </div>
 
 <!-- ======================== TYPING ANIMATION ======================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🌿+Full+Stack+Developer+%40+ClimAgro+Analytics;🏥+Full+Stack+Developer+%40+EHM+Consultancy;🎓+Final+Year+CS+%7C+Data+Science+%7C+MERN+Stack;💡+C%2B%2B+%7C+Python+%7C+SQL+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🌿+Software+Developer+%40+ClimAgro+Analytics;🏥+Software+Developer+%40+EHM+Consultancy;🎓+Final+Year+CS+%7C+Data+Science+%7C+MERN+Stack;💡+C%2B%2B+%7C+Python+%7C+SQL+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,11 +17,13 @@
 <!-- ======================== ABOUT ME ======================== -->
 <div align="center">
 
-<img align="right" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding gif"/>
+<img align="right" width="380" src="workspace.png" alt="Developer Workspace"/>
 
 </div>
 
 ### 👨‍💻 About Me
+
+A **Software Developer** with strong UI/UX, dual backend capability (Node + Python), a shipped AI feature, mobile app experience, working system design fundamentals, and solid DSA problem-solving — genuinely a well-rounded, differentiated profile for Software Developer, Backend Developer, or SDE-1-titled roles at startups, fintech, and product companies.
 
 ```python
 class AshutoshMishra:
@@ -30,25 +32,25 @@ class AshutoshMishra:
         self.alias       = "ashutosh096"
         self.education   = "B.Tech Computer Science (Data Science) — Final Year"
         self.roles       = [
-            "Full Stack Developer @ ClimAgro Analytics",
-            "Full Stack Developer @ EHM Consultancy",
+            "Software Developer @ ClimAgro Analytics (IIT Kanpur Funded Startup)",
+            "Software Developer @ EHM Consultancy (IIT Kanpur Funded Startup)",
         ]
-        self.stack       = ["React", "Node.js", "Express", "MongoDB", "PostgreSQL"]
-        self.languages   = ["JavaScript", "Python", "C++", "SQL", "TypeScript"]
+        self.stack       = ["React", "Node.js", "Express", "MongoDB", "PostgreSQL", "Tailwind CSS"]
+        self.languages   = ["JavaScript", "TypeScript", "Python", "C++", "SQL"]
         self.interests   = ["AgriTech", "HealthTech", "Data Science", "DSA"]
-        self.currently   = "Building scalable web apps that actually matter 🌍"
+        self.currently   = "Building scalable web apps at Technopark, IIT Kanpur 🏢"
         self.motto       = "Ship fast. Learn faster. Impact most. 🚀"
 
     def say_hi(self):
-        print("Hey there! I build full-stack solutions at ClimAgro & EHM 👋")
+        print("Hey there! I build software solutions at ClimAgro & EHM 👋")
         print("Let's connect and create something impactful together!")
 
 me = AshutoshMishra()
 me.say_hi()
 ```
 
-- 🌿 **Full Stack Developer @ [ClimAgro Analytics](https://github.com/ashutosh096)** — Building AgriTech platforms to empower farmers & analysts
-- 🏥 **Full Stack Developer @ EHM Consultancy** — Architecting scalable healthcare management systems
+- 🌿 **Software Developer @ [ClimAgro Analytics](https://github.com/ashutosh096)** — Building AgriTech platforms to empower farmers & analysts (IIT Kanpur funded startup, office at Technopark, IIT Kanpur)
+- 🏥 **Software Developer @ EHM Consultancy** — Architecting scalable healthcare management systems (IIT Kanpur funded startup, office at Technopark, IIT Kanpur)
 - 🎓 **Final-year B.Tech CS** specializing in **Data Science** (MERN Stack + Python)
 - 🏆 Skilled in **Data Structures & Algorithms** | Competitive programmer at heart
 - 🤖 Exploring the intersection of **AI/ML** with **real-world product development**
@@ -64,7 +66,7 @@ me.say_hi()
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| 🖥️ **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| 🖥️ **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
 | 🌐 **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
 | 🗄️ **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
@@ -120,8 +122,8 @@ me.say_hi()
 ## 🔭 What I'm Building
 
 ```
-🌿  ClimAgro Analytics  —  Full Stack Developer Intern 
-🏥  EHM Consultancy     —  Full Stack Developer Intern 
+🌿  ClimAgro Analytics  —  Software Developer Intern (IIT Kanpur Startup)
+🏥  EHM Consultancy     —  Software Developer Intern (IIT Kanpur Startup)
 🧠  ML Integration      —  Embedding predictive models into production apps
 📊  DSA Mastery         —  Grinding algorithms for top-tier placements
 🌐  Cloud & DevOps      —  Scalable deployments with AWS & CI/CD pipelines
