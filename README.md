@@ -161,6 +161,12 @@
 
 > "Simplicity is the soul of efficiency." — *Austin Freeman*
 
+<br/>
+
+<p align="center">
+  <code><b>const</b> developer = { coding: <b>true</b>, caffeine: <b>"infinite"</b>, status: <b>"Always Building"</b> };</code>
+</p>
+
 </div>
 
 <!-- ======================== FOOTER ======================== -->
