@@ -8,54 +8,32 @@
 <!-- ======================== TYPING ANIMATION ======================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🌿+Software+Developer+%40+ClimAgro+Analytics;🏥+Software+Developer+%40+EHM+Consultancy;🎓+Final+Year+CS+%7C+Data+Science+%7C+MERN+Stack;💡+C%2B%2B+%7C+Python+%7C+SQL+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🌿+Software+Developer+%40+ClimAgro+Analytics;🏥+Software+Developer+%40+EHM+Consultancy;🚀+Next.js+%7C+Node.js+%7C+Python;💡+C%2B%2B+%7C+SQL+%7C+PostgreSQL+%7C+MongoDB)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 <!-- ======================== ABOUT ME ======================== -->
-<div align="center">
-
-<img align="right" width="380" src="workspace.png" alt="Developer Workspace"/>
-
-</div>
-
 ### 👨‍💻 About Me
 
-A **Software Developer** with strong UI/UX, dual backend capability (Node + Python), a shipped AI feature, mobile app experience, working system design fundamentals, and solid DSA problem-solving — genuinely a well-rounded, differentiated profile for Software Developer, Backend Developer, or SDE-1-titled roles at startups, fintech, and product companies.
-
-```python
-class AshutoshMishra:
-    def __init__(self):
-        self.name        = "Ashutosh Mishra"
-        self.alias       = "ashutosh096"
-        self.education   = "B.Tech Computer Science (Data Science) — Final Year"
-        self.roles       = [
-            "Software Developer @ ClimAgro Analytics (IIT Kanpur Funded Startup)",
-            "Software Developer @ EHM Consultancy (IIT Kanpur Funded Startup)",
-        ]
-        self.stack       = ["React", "Node.js", "Express", "MongoDB", "PostgreSQL", "Tailwind CSS"]
-        self.languages   = ["JavaScript", "TypeScript", "Python", "C++", "SQL"]
-        self.interests   = ["AgriTech", "HealthTech", "Data Science", "DSA"]
-        self.currently   = "Building scalable web apps at Technopark, IIT Kanpur 🏢"
-        self.motto       = "Ship fast. Learn faster. Impact most. 🚀"
-
-    def say_hi(self):
-        print("Hey there! I build software solutions at ClimAgro & EHM 👋")
-        print("Let's connect and create something impactful together!")
-
-me = AshutoshMishra()
-me.say_hi()
-```
-
-- 🌿 **Software Developer @ [ClimAgro Analytics](https://github.com/ashutosh096)** — Building AgriTech platforms to empower farmers & analysts (IIT Kanpur funded startup, office at Technopark, IIT Kanpur)
-- 🏥 **Software Developer @ EHM Consultancy** — Architecting scalable healthcare management systems (IIT Kanpur funded startup, office at Technopark, IIT Kanpur)
-- 🎓 **Final-year B.Tech CS** specializing in **Data Science** (MERN Stack + Python)
-- 🏆 Skilled in **Data Structures & Algorithms** | Competitive programmer at heart
-- 🤖 Exploring the intersection of **AI/ML** with **real-world product development**
-- 🤝 Open to **open-source collabs**, **freelance projects**, and **startup opportunities**
-- ⚡ Fun fact: I turn chai ☕ and caffeine into production-ready features!
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <p>A passionate <b>Software Developer</b> with dual backend capability (Node + Python), deep Next.js expertise, and clean system design fundamentals. I focus on building high-performance, scalable web systems and solving complex problems with efficient Data Structures & Algorithms.</p>
+      <ul>
+        <li>🌿 <b>Software Developer @ <a href="https://github.com/ashutosh096">ClimAgro Analytics</a></b> — Building AgriTech platforms to empower farmers & analysts (IIT Kanpur funded startup, Technopark, IIT Kanpur).</li>
+        <li>🏥 <b>Software Developer @ EHM Consultancy</b> — Architecting scalable healthcare management systems (IIT Kanpur funded startup, Technopark, IIT Kanpur).</li>
+        <li>🎓 <b>B.Tech in Computer Science</b> — Passionate about software engineering and systems.</li>
+        <li>🏆 Skilled in <b>Data Structures & Algorithms</b> | Competitive programmer at heart.</li>
+        <li>⚡ <b>Fun fact</b>: I turn chai ☕ and caffeine into production-ready features!</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="workspace.png" width="100%" alt="Developer Workspace" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 4px 30px rgba(0,0,0,0.4);"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,11 +45,10 @@ me.say_hi()
 | **Category** | **Technologies** |
 |:---:|:---|
 | 🖥️ **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-| 🌐 **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 🌐 **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
 | 🗄️ **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 🤖 **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-| 🛠️ **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| 🛠️ **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | ☁️ **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 
 </div>
@@ -122,11 +99,11 @@ me.say_hi()
 ## 🔭 What I'm Building
 
 ```
-🌿  ClimAgro Analytics  —  Software Developer Intern (IIT Kanpur Startup)
-🏥  EHM Consultancy     —  Software Developer Intern (IIT Kanpur Startup)
-🧠  ML Integration      —  Embedding predictive models into production apps
-📊  DSA Mastery         —  Grinding algorithms for top-tier placements
-🌐  Cloud & DevOps      —  Scalable deployments with AWS & CI/CD pipelines
+🌿  ClimAgro Analytics  —  Software Developer (IIT Kanpur Startup)
+🏥  EHM Consultancy     —  Software Developer (IIT Kanpur Startup)
+⚡  Next.js & Python    —  Building modern full-stack web applications
+📊  DSA Mastery         —  Solving algorithmic challenges & problem solving
+🌐  Cloud & DevOps      —  Scalable deployments with AWS & Vercel
 ```
 
 ---
