@@ -1,6 +1,6 @@
 <!-- ======================== HEADER ======================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,100:00F0FF&height=200&section=header&text=Ashutosh%20Mishra&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20ClimAgro%20%7C%20EHM&descAlignY=60&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,100:00F0FF&height=200&section=header&text=Ashutosh%20Mishra&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20ClimAgro%20Analytics%20%7C%20EHM%20Consultancy&descAlignY=60&descSize=17" width="100%"/>
 </div>
 
 <p align="center">
