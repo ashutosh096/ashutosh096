@@ -10,6 +10,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🌿+Software+Developer+%40+ClimAgro+Analytics;🏥+Software+Developer+%40+EHM+Consultancy;🚀+Next.js+%7C+Node.js+%7C+Python;💡+C%2B%2B+%7C+SQL+%7C+PostgreSQL+%7C+MongoDB)](https://git.io/typing-svg)
 
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3PfvGTJjlV/giphy.gif" width="180" alt="Coding GIF" style="border-radius: 50%;"/>
+<h3>umm. ya i kinda like python and next.js</h3>
+<i>"I don't let my schooling interfere with my education"</i>
+
 </div>
 
 ---
@@ -55,6 +61,46 @@
 
 ---
 
+<!-- ======================== FEATURED PROJECTS ======================== -->
+## 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌾 <a href="https://github.com/ashutosh096/croprisk">CropRisk.ai</a></h3>
+      <p><b>Agricultural Risk Intelligence</b></p>
+      <p>An enterprise agricultural risk assessment and crop health analytics dashboard enabling agronomists and crop insurers to track NDVI, canopy temperature, and soil moisture anomalies in real time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2019-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Vite%207-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind%20v4-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌾 <a href="https://github.com/ashutosh096/wheatrisk">WheatRisk.ai</a></h3>
+      <p><b>Geospatial Underwriting & Risk DNA</b></p>
+      <p>A crop loan risk management system projecting wheat crop failure hazards across Uttar Pradesh, India. Features interactive Crop Hazard Index (CHI) maps, regional Risk DNA comparison, and exposure alerts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Leaflet-%23B91C1C.svg?style=flat-square&logo=leaflet&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ <a href="https://github.com/ashutosh096/deploydash">DeployDash</a></h3>
+      <p><b>Enterprise Release & Checklist Coordinator</b></p>
+      <p>An enterprise-grade release checklist and deployment verification dashboard coordinating workflows, live checklists, and secure email invitation systems for ClimAgro & EHM development teams.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <!-- ======================== GITHUB STATS ======================== -->
 ## 📊 GitHub Analytics
 
@@ -72,16 +118,6 @@
 </div>
 
 ---
-
-<!-- ======================== ACHIEVEMENTS ======================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashutosh096&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <!-- ======================== DSA STATS ======================== -->
@@ -127,11 +163,11 @@
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/ashutosh096/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=ashutosh096&color=58a6ff&style=flat-square)
 
 ### 💬 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> "Simplicity is the soul of efficiency." — *Austin Freeman*
 
 </div>
 
