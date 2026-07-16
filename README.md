@@ -7,8 +7,16 @@
   <img src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif" width="180" alt="Moving Cartoon Gopher"/>
 </p>
 
-<h2 align="center">umm. ya i kinda like <b>next.js</b> and <b>python</b></h2>
-<p align="center"><b>I don't let my schooling interfere with my education</b></p>
+<div align="center">
+
+```javascript
+const developer = {
+  stack: ["Next.js", "Python", "FastAPI", "Node.js"],
+  currently: "Building products @ ClimAgro & EHM 🚀"
+};
+```
+
+</div>
 
 ---
 
@@ -163,9 +171,8 @@
 
 <br/>
 
-<p align="center">
-  <code><b>const</b> developer = { coding: <b>true</b>, caffeine: <b>"infinite"</b>, status: <b>"Always Building"</b> };</code>
-</p>
+<h3 align="center">umm. ya i kinda like <b>next.js</b> and <b>python</b></h3>
+<p align="center"><b>I don't let my schooling interfere with my education</b></p>
 
 </div>
 
