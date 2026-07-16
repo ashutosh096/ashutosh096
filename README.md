@@ -1,5 +1,7 @@
 <!-- ======================== HEADER ======================== -->
-<h1 align="center">✨ Ashutosh Mishra — Developer ✨</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,100:00F0FF&height=200&section=header&text=Ashutosh%20Mishra&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20ClimAgro%20%7C%20EHM&descAlignY=60&descSize=17" width="100%"/>
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif" width="180" alt="Moving Cartoon Gopher"/>
@@ -7,13 +9,6 @@
 
 <h2 align="center">umm. ya i kinda like <b>next.js</b> and <b>python</b></h2>
 <p align="center"><b>I don't let my schooling interfere with my education</b></p>
-
-<!-- ======================== TYPING ANIMATION ======================== -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🌿+Software+Developer+%40+ClimAgro+Analytics;🏥+Software+Developer+%40+EHM+Consultancy;🚀+Next.js+%7C+Node.js+%7C+Python;💡+C%2B%2B+%7C+SQL+%7C+PostgreSQL+%7C+MongoDB)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
@@ -102,8 +97,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh096&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh096&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ashutosh096&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ashutosh096&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=false"/>
 </div>
 
 <div align="center">
