@@ -134,13 +134,41 @@ const developer = {
 <!-- ======================== WHAT I'M WORKING ON ======================== -->
 ## 🔭 What I'm Building
 
-```
-🌿  ClimAgro Analytics  —  Software Developer (IIT Kanpur Startup)
-🏥  EHM Consultancy     —  Software Developer (IIT Kanpur Startup)
-⚡  Next.js & Python    —  Building modern full-stack web applications
-📊  DSA Mastery         —  Solving algorithmic challenges & problem solving
-🌐  Cloud & DevOps      —  Scalable deployments with AWS & Vercel
-```
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 ClimAgro Analytics</h3>
+      <p><b>Software Developer</b> (IIT Kanpur Startup)</p>
+      <p>Developing scalable agricultural intelligence and crop risk telemetry dashboards.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 EHM Consultancy</h3>
+      <p><b>Software Developer</b> (IIT Kanpur Startup)</p>
+      <p>Architecting secure, enterprise-grade healthcare underwriting and release portals.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Next.js & Python Stack</h3>
+      <p><b>Full-Stack Engineering</b></p>
+      <p>Building highly responsive web frontends coupled with fast Python-based backend APIs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 DSA Mastery</h3>
+      <p><b>Algorithmic Problem Solving</b></p>
+      <p>Solving complex data structures and algorithms challenges to optimize efficiency.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Cloud & DevOps</h3>
+      <p><b>Scalable Deployment</b></p>
+      <p>Deploying resilient systems utilizing AWS cloud infrastructure and Vercel hosting.</p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ---
 
