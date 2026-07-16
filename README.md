@@ -159,15 +159,6 @@ const developer = {
       <p>Solving complex data structures and algorithms challenges to optimize efficiency.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Cloud & DevOps</h3>
-      <p><b>Scalable Deployment</b></p>
-      <p>Deploying resilient systems utilizing AWS cloud infrastructure and Vercel hosting.</p>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
 </table>
 
 ---
