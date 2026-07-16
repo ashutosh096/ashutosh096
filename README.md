@@ -1,18 +1,17 @@
 <!-- ======================== HEADER ======================== -->
-<div align="center">
+<h1 align="center">✨ Ashutosh Mishra — Developer ✨</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ASHUTOSH%20MISHRA&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Software%20Developer%20%7C%20ClimAgro%20Analytics%20%7C%20EHM%20Consultancy&descAlignY=60&descSize=17" width="100%"/>
+<p align="center">
+  <img src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif" width="180" alt="Moving Cartoon Gopher"/>
+</p>
 
-</div>
+<h2 align="center">umm. ya i kinda like <b>next.js</b> and <b>python</b></h2>
+<p align="center"><b>I don't let my schooling interfere with my education</b></p>
 
 <!-- ======================== TYPING ANIMATION ======================== -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🌿+Software+Developer+%40+ClimAgro+Analytics;🏥+Software+Developer+%40+EHM+Consultancy;🚀+Next.js+%7C+Node.js+%7C+Python;💡+C%2B%2B+%7C+SQL+%7C+PostgreSQL+%7C+MongoDB)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif" width="180" alt="Moving Cartoon Gopher"/>
 
 </div>
 
